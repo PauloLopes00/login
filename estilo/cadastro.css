@@ -73,19 +73,19 @@ p.campo > input {
 }
 
 p.campo > input#inome{
-    width: calc(100% - 54px);
+    width: calc(100% - 55px);
 }
 
 p.campo > input#iemail{
-    width: calc(100% - 48px);
+    width: calc(100% - 49px);
 }
 
 p.campo > input#isenha{
-    width: calc(100% - 53px);
+    width: calc(100% - 54px);
 }
 
 p.campo > input#itel{
-    width: calc(100% - 67px);
+    width: calc(100% - 68px);
 }
 
 p.campo > input:focus-within{
