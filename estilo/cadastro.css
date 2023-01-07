@@ -73,15 +73,15 @@ p.campo > input {
 }
 
 p.campo > input#inome{
-    width: calc(100% - 52px);
+    width: calc(100% - 53px);
 }
 
 p.campo > input#iemail{
-    width: calc(100% - 46px);
+    width: calc(100% - 47px);
 }
 
 p.campo > input#isenha{
-    width: calc(100% - 52px);
+    width: calc(100% - 52.5px);
 }
 
 p.campo > input#itel{
